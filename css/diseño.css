@@ -1,0 +1,163 @@
+header{
+  display: flex;
+  background: #3fe007;
+  justify-content: space-evenly;
+  align-items: center;
+  color: white;
+  font-size: 22px;
+  width: auto;
+  height: 150px;
+}
+
+.logoindice {
+  background-image: url(../image/logoindice2.png);
+  background-size: 440px ;
+  width: 440px;
+  height: 146px;
+  background-repeat: no-repeat;
+  margin: 0px 550px 0 40px;
+  background-position-y: -97px;
+}
+
+header a {
+  text-decoration: none;
+  font-family: sans-serif;
+  font-size: 24px;
+  font-stretch: extra-condensed;
+  color: black;
+}
+
+.container1 figure {
+  margin: 0px;
+}
+
+.imglogo {
+  width: 1887px;
+  height: 600px;
+  object-fit: cover;
+}
+
+h1 {
+  color: white;
+  background: red;
+  margin: -460px 0 0px 370px;
+  font-size: 72px;
+  width: 720px;
+}
+
+.descripcionlogo {
+  color: white;
+  transform: translateX(0);
+  background: #313a32;
+  height: 60px;
+  font-size: 22px;
+  width: 824px;
+  text-align: right;
+  margin: 0 0 204px 550px;
+  border-radius: 20px;
+  padding: 0 15px
+}
+
+h2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  height: 250px;
+  font-size: 55px;
+  color: black;
+}
+
+.container2 {
+  display: flex;
+  justify-content: center;
+  height: 440px;
+  padding-top: 50px;
+  background: #ecf7e9;
+}
+
+.container2 div {
+  width: 430px;
+  margin: 0 60px;
+  text-align: center;
+}
+
+.container2 img {
+  width: 430px;
+  height: 300px;
+}
+
+.container3 {
+  display: flex;
+  justify-content: center;
+  background: url(../image/pacuaticas.jpg);
+  background-size: cover;
+  height: 500px;  
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.iframe {
+  border: 1px solid white;  
+}
+
+.container4 {
+  height: 100px;
+
+}
+
+.redes a {
+  display: inline-block;
+  width: 50px;
+  height: 50px;  
+  margin: 0 40px;
+}
+
+
+
+.footer {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 200px;
+  background: #1a211b;
+  color: white;
+}
+
+.twitter {
+  background-image: url(../image/twitter.jpg);
+  background-size: 50px;
+  
+}
+
+.facebook {
+  background-image: url(../image/facebook.jpg);
+  background-size: 50px;
+}
+
+.instagram {
+  background-image: url(../image/instagram2.jpg);
+  background-size: 50px;
+}
+
+.youtube {
+  background-image: url(../image/youtube.jpg);
+  background-size: 50px;
+}
+
+.contacto {
+  display: flex;
+}
+
+.contactoa {
+  width: 480px;
+  color: white;
+  font-size: 32px;
+  text-align: -webkit-center;
+  text-decoration: none;
+}
+
+.contactoa span {
+  text-decoration: underline;
+  color: white;
+}
